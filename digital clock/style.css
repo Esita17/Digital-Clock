@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7e3054;
+}
+.clock {
+    color: rgb(252, 249, 252);
+    background:#0c0b52;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 400px;
+    padding: 20px 9px;
+    border: 20px rgb(34, 15, 1);
+    border-radius: 900px ;
+}
+
+.time{
+   text-align: center;
+   letter-spacing: 3.5px;
+}
